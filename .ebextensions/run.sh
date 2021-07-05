@@ -1,3 +1,5 @@
 #!/bin/sh
 
-python3 /root/download.py
+cd /home/ec2-user
+
+./test.sh
